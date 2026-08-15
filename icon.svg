@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0b0f18"/>
+  <rect x="18" y="18" width="476" height="476" rx="96" fill="none" stroke="#f6b21a" stroke-width="14"/>
+  <path d="M137 112c132 0 239 107 239 239H137z" fill="#f6b21a" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
+  <circle cx="198" cy="202" r="25" fill="#dc2626"/>
+  <circle cx="272" cy="270" r="23" fill="#dc2626"/>
+  <circle cx="198" cy="310" r="21" fill="#dc2626"/>
+  <path d="M126 402h260" stroke="#f6b21a" stroke-width="20" stroke-linecap="round"/>
+  <text x="256" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#fff">PBOS</text>
+</svg>

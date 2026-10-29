@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#0b0f18"/>
-  <rect x="18" y="18" width="476" height="476" rx="96" fill="none" stroke="#f6b21a" stroke-width="14"/>
-  <path d="M137 112c132 0 239 107 239 239H137z" fill="#f6b21a" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
-  <circle cx="198" cy="202" r="25" fill="#dc2626"/>
-  <circle cx="272" cy="270" r="23" fill="#dc2626"/>
-  <circle cx="198" cy="310" r="21" fill="#dc2626"/>
-  <path d="M126 402h260" stroke="#f6b21a" stroke-width="20" stroke-linecap="round"/>
-  <text x="256" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#fff">PBOS</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Pizza Beat Fábrica"><title>Pizza Beat pbos</title><rect width="512" height="512" rx="110" fill="#111111"/><rect x="15" y="15" width="482" height="482" rx="99" fill="none" stroke="#343434" stroke-width="5"/><circle cx="256" cy="248" r="187" fill="#111111"/><path d="M73 229C84 133 165 70 262 65C346 62 418 112 442 181C384 144 329 133 276 158C221 183 210 241 158 257C124 267 91 254 73 229Z" fill="#E10600"/><path d="M94 228C135 253 174 230 206 194C258 137 333 114 418 164" fill="none" stroke="#F6F4EF" stroke-width="22" stroke-linecap="round"/><path d="M146 371C204 421 311 439 379 372" fill="none" stroke="#F6F4EF" stroke-width="14" stroke-linecap="round" opacity=".9"/><g stroke="#141414" stroke-width="11" stroke-linejoin="round"><path d="M143 372V270l74 45v-45l75 45v-91h56v148Z" fill="#F6F4EF"/><rect x="310" y="194" width="38" height="90" rx="4" fill="#F6F4EF"/><rect x="163" y="332" width="29" height="25" fill="#E10600" stroke="none"/><rect x="221" y="332" width="29" height="25" fill="#141414" stroke="none"/><rect x="278" y="332" width="29" height="25" fill="#141414" stroke="none"/><rect x="143" y="369" width="205" height="10" rx="4" fill="#F6F4EF" stroke="none"/></g></svg>
